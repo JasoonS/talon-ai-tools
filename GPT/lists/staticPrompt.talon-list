@@ -1,6 +1,8 @@
 list: user.staticPrompt
 -
 
+convert response: Based on the previous messages, please write a suitable reply. You are a helpful sales agent and sometimes just asing how are things going is enough.
+
 # Use static prompts as aliases for detailed instructions
 # Reduce verbosity and prevent the need to say the entire prompt each time time
 
